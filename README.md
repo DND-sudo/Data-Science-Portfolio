@@ -62,7 +62,7 @@ If you're looking for someone who:
 
 ## Contact Me
 
-- GitHub: [YourGitHubUsername](https://github.com/DND-sudo)
+- GitHub: [DND-sudo](https://github.com/DND-sudo)
 - Email: adambenoudda.ma@gmail.com
 
 Let’s build something valuable together!
